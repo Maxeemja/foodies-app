@@ -46,17 +46,6 @@ export default function Home() {
 						with other food lovers.
 					</p>
 				</section>
-
-				{/* <h1 style={{ color: 'white', textAlign: 'center' }}>
-					Time to get started!
-				</h1>
-
-				<section>
-					<h3>Links:</h3> <br />
-					<Link href='meals'>To Meals</Link>
-					<br />
-					<Link href='community'>To Community</Link>
-				</section> */}
 			</main>
 		</>
 	);
